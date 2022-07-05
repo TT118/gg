@@ -1,8 +1,6 @@
-//巧计内置源版jar
 {
-//"spider":"https://wp.wangshi520.com/down.php/cb70051a538edd59a5a14597858d9296.jar&qiaoji66",
 "spider":"https://pan.tigerroot.cn/down.php/b91043208ce8118ad331d47da3b61fec.jar&jar",
-"sites": [{"key": "csp_Bttoo"      ,"name":"◀推荐💀首页▶  🍷2BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
+"sites": [{"key": "csp_Bttoo","name":"◀推荐💀首页▶  🍷2BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
