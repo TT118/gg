@@ -1,4 +1,3 @@
-//巧计内置源版jar
 {
 //"spider":"https://wp.wangshi520.com/down.php/cb70051a538edd59a5a14597858d9296.jar&qiaoji66",
 "spider":"https://pan.tigerroot.cn/down.php/b91043208ce8118ad331d47da3b61fec.jar&jar",
