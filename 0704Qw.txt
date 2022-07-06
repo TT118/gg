@@ -1,5 +1,5 @@
 {
-"spider":"https://pan.tigerroot.cn/down.php/b91043208ce8118ad331d47da3b61fec.jar&jar",
+"spider":"https://pan.tigerroot.cn/down.php/54ff3e6b08fa3d80f4134b80399773cf.jar",
 "sites": [{"key": "csp_Bttoo","name":"◀推荐💀首页▶  🍷2BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
